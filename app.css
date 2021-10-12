@@ -1,0 +1,22 @@
+.mainheader {padding:  50px 0px 50px 0; background-color:  #F9E014; color:  #f4f4f4; text-align:  center;}
+
+
+h1 {color: #6A3400; font-family: 'Mystery Quest'; font-size: 7rem; font-weight: 900; border: solid 2px #905216; text-align: center;}
+
+h2 {color: #633E1B; font-family: 'Arvo'; transform: titlecase; font-size: 3.5rem; font-weight: 400; border: solid 2px #9F7751; text-align: right; justify: right; margin-left: 50%; padding: 20px;}
+
+h3 {color:  #231100; font-family: 'Arvo'; font-size: 4rem; padding: 10px; font-weight: 300; text-align: center;}
+
+p {color:  #231100; font-family: 'Arvo'; font-size: 2rem; padding: 10px; font-weight: 300; text-align: left;}
+
+.box1 {background-color: #17BDB9;}
+
+.box2 {background-color: #F9E014;}
+
+.box3 {background-color: #17BDB9;}
+
+
+
+.lyric-font {color:  #F9E014; font-family:  'Mystery Quest', cursive; font-size:  2.5rem; font-weight: 500; text-align: center}
+
+.background-blur {background-image: url("Scooby-Doo-Big-Image-Blur.jpg");}
